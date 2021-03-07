@@ -1,0 +1,8 @@
+## Interface: 11303
+## Title: |cff00ccffDispenser|r
+## Author: JimAbrahamWilliams
+## DefaultState: enabled
+## SavedVariables: DispenserDB
+
+config.lua
+init.lua
